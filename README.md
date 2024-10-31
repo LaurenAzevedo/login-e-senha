@@ -88,7 +88,7 @@ Na tela de autenticação, o usuário insere o login e a senha. Possui tambem a 
 
 # 🧰 APK do APP 
 
-<a href="https://https://github.com/LaurenAzevedo/login-e-senha/blob/main/app-debug.apk"> Download APK </a>
+<a href="https://github.com/LaurenAzevedo/login-e-senha/blob/main/app-debug.apk"> Download APK </a>
  
 # 📄 Licença
 
