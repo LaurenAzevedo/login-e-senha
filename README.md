@@ -80,15 +80,15 @@ Na tela de casdasto, o usuário insere seu nome, login, senha e repetir a senha 
 
 <img src="https://github.com/user-attachments/assets/a5fbce93-031d-41e7-8292-2d337f4bec81" width="260" height="500"/>
 
-
 ## 3.**Tela de Autenticação**
 
 Na tela de autenticação, o usuário insere o login e a senha. Possui tambem a possibilidade de entrar ou voltar a tela inicial
 
-
 <img src="https://github.com/user-attachments/assets/501e5a54-8431-4ab9-9cf3-99e228d8eecf" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
+<a href="https://https://github.com/LaurenAzevedo/login-e-senha/blob/main/app-debug.apk"> Download APK </a>
  
 # 📄 Licença
 
